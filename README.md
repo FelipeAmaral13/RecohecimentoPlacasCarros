@@ -18,4 +18,4 @@ Para acessar o tesseract-OCR a partir de qualquer local, pode ser necessário ad
 
 É preciso também no código passar o endereço que o 
 
-pytesseract.pytesseract.tesseract_cmd = 'C:/Program Files (x86)/Tesseract-OCR/tesseract'
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe' 
